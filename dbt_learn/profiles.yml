@@ -1,0 +1,6 @@
+dbt_learn:
+  outputs:
+    dev:
+      type: duckdb
+      path: '../data/my_duckdb.db'
+  target: dev
