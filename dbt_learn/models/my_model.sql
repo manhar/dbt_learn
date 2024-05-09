@@ -1,1 +1,3 @@
-select * from netflix_titles
+select 
+* 
+from netflix_titles
