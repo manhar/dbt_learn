@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 local:
   target: dev # which profile target to yse 
-=======
-dbt_learn:
->>>>>>> e420b6012c6cf7b74bcc7111e4e110d65a77ca40
   outputs:
-    dev:
-      type: duckdb
-      path: '../data/my_duckdb.db'
-<<<<<<< HEAD
-=======
-  target: dev
->>>>>>> e420b6012c6cf7b74bcc7111e4e110d65a77ca40
+      dev:
+        type: duckdb
+        path: '../data/my_duckdb.db'
+
