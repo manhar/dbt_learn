@@ -1,4 +1,4 @@
-#!/Users/manhar.seewooth/atc/git/dbt_learn/dbt-env/bin/python3
+#!/Users/manharseewooth/projects/dbt_learn/dbt-env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
