@@ -1,0 +1,6 @@
+local:
+  target: dev # which profile target to yse 
+  outputs:
+    dev:
+      type: duckdb
+      path: '../data/my_duckdb.db'
