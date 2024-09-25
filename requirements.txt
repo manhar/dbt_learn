@@ -1,5 +1,6 @@
 agate==1.7.1
 annotated-types==0.6.0
+pandas
 appnope==0.1.4
 asttokens==2.4.1
 attrs==23.2.0

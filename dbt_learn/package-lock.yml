@@ -1,10 +1,8 @@
 packages:
-  - package: elementary-data/elementary
-    version: 0.16.0
   - package: mjirv/dbt_datamocktool
     version: 0.3.5
   - package: dbt-labs/dbt_utils
     version: 1.3.0
   - package: dbt-labs/audit_helper
     version: 0.12.0
-sha1_hash: aa63c6b040f52b94390f1a3683c23dc21331fe7e
+sha1_hash: 9c71646dd01a9e8688b7e5dca0d735219e8adbad
